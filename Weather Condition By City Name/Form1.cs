@@ -25,7 +25,7 @@ namespace Weather_Condition_By_City_Name
             getWeather();
         }
 
-        string apiKey = "88c37e82cae8c5864ad2934fe741bc07";
+        string apiKey = "Your API KEY";
 
         void getWeather()
         {
