@@ -1,0 +1,14 @@
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\bin\Debug\Weather Condition By City Name.exe.config
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\bin\Debug\Weather Condition By City Name.exe
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\bin\Debug\Weather Condition By City Name.pdb
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.csproj.AssemblyReference.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather_Condition_By_City_Name.Form1.resources
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather_Condition_By_City_Name.Properties.Resources.resources
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.csproj.GenerateResource.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.csproj.CoreCompileInputs.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.csproj.CopyComplete
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.exe
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\Weather Condition By City Name\Weather Condition By City Name\obj\Debug\Weather Condition By City Name.pdb

@@ -1,0 +1,44 @@
+weather api
+88c37e82cae8c5864ad2934fe741bc07
+
+by city name
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city}&appid={apikey}
+
+
+{
+  "coord": { "lon": -0.1257, "lat": 51.5085 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 298.64,
+    "feels_like": 298.73,
+    "temp_min": 293.7,
+    "temp_max": 302.64,
+    "pressure": 1012,
+    "humidity": 57
+  },
+  "visibility": 10000,
+  "wind": { "speed": 6.17, "deg": 100 },
+  "clouds": { "all": 91 },
+  "dt": 1686499953,
+  "sys": {
+    "type": 2,
+    "id": 268730,
+    "country": "GB",
+    "sunrise": 1686455025,
+    "sunset": 1686514596
+  },
+  "timezone": 3600,
+  "id": 2643743,
+  "name": "London",
+  "cod": 200
+}
